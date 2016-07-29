@@ -1,0 +1,8 @@
+{
+	"name": "interact-cli-bin",
+	"license": "GPL-3",
+	"compile": true,
+	"dependencies": {
+		"interact-cli": "~0.0"
+	}
+}
