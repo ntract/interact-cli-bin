@@ -1,8 +1,8 @@
 {
-	"name": "interact-cli-bin",
+	"name": "ntract-cli-bin",
 	"license": "GPL-3",
 	"compile": true,
 	"dependencies": {
-		"interact-cli": "~0.0"
+		"ntract-cli": "~0.0"
 	}
 }
