@@ -1,8 +1,6 @@
 {
-	"name": "interact",
+	"name": "ntract-cli",
 	"dependencies": {
-      "interact-cli-build": "~0.0",
-      "interact-cli-compile": "~0.0",
-      "interact-cli-plugins": "~0.0"
+      "ntract-cli-bin": "~0.0"
     }
 }
