@@ -1,7 +1,7 @@
 {
     "name": "ntract-cli",
     "commonName": "Plugin Management Tool",
-    "version": "0.0.19",
+    "version": "0.0.20",
     "license": "GPL-3",
     "maintainers": [
         {
@@ -23,6 +23,7 @@
         "npm": "*",
         "semver": "*",
         "bower": "*",
-        "inquirer": "*"
+        "inquirer": "*",
+        "osenv": "*"
     }
 }
